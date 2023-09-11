@@ -1,0 +1,19 @@
+1. pip install nltk
+2. pip install pdfminer.six
+3. pip install PyPDF2
+4. pip install datefinder
+5. pip install dateparser
+6. pip install pdfplumber
+7. pip install spacy - (python -m spacy download en_core_web_sm)
+8. pip install nameparser
+9. pip install addressparser
+10. pip install dateutil
+11. pip install pyap
+12. pip install flask
+13. pip install collections
+14. pip install usaddress
+15. pip install torch(pip3 install torch torchvision torchaudio) -depends on system requirement-(https://pytorch.org/)
+16. pip install transformers
+17. pip install simpletransformers
+18. pip install -U sentence-transformers
+19. pip install flair
