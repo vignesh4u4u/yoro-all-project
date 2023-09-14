@@ -1,19 +1,38 @@
-1. pip install nltk
-2. pip install pdfminer.six
-3. pip install PyPDF2
-4. pip install datefinder
-5. pip install dateparser
-6. pip install pdfplumber
-7. pip install spacy - (python -m spacy download en_core_web_sm)
-8. pip install nameparser
-9. pip install addressparser
-10. pip install dateutil
-11. pip install pyap
-12. pip install flask
-13. pip install collections
-14. pip install usaddress
-15. pip install torch(pip3 install torch torchvision torchaudio) -depends on system requirement-(https://pytorch.org/)
-16. pip install transformers
-17. pip install simpletransformers
-18. pip install -U sentence-transformers
-19. pip install flair
+python version =3.9.0 or 3.8.0
+pip install nltk
+pip install pdfminer.six
+pip install PyPDF2
+pip install datefinder
+pip install dateparser
+pip install pdfplumber
+pip install spacy
+python -m spacy download en_core_web_sm
+python -m spacy download en_core_web_trf
+pip install nameparser
+pip install addressparser
+pip install python-dateutil
+pip install pyap
+pip install flask
+pip install usaddress
+pip3 install torch torchvision torchaudio
+pip install transformers
+pip install simpletransformers
+pip install -U sentence-transformers
+pip install flair
+pip install spacy-transformers
+
+pip install opencv-python
+pip install flask
+pip3 install torch torchvision torchaudio
+pip install PyMuPDF
+pip install Pillow==9.5.0
+pip install git+https://github.com/JaidedAI/EasyOCR.git
+pip install easyocr
+pip install pdf2image
+pip install pytesseract
+python -m pip install paddlepaddle -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install paddleocr==2.0.1
+pip install --upgrade paddleocr
+pip3 install -U pypdfium2
+
+

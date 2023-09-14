@@ -1,0 +1,35 @@
+pip install nltk==3.8.1
+pip install pdfminer.six==20221105 
+pip install datefinder==0.7.3
+pip install dateparser==1.1.8
+pip install pdfplumber==0.10.0
+pip install spacy==3.6.0
+pip install python-dateutil==2.8.2
+pip install nameparser==1.1.2
+pip install addressparser==0.2.4
+pip install pyap==0.3.1
+pip install flask==2.3.2
+pip install usaddress==0.5.10
+
+pip3 install torch torchvision torchaudio
+pip install transformers
+pip install simpletransformers
+pip install -U sentence-transformers
+pip install flair
+pip install PyPDF2
+pip install PyMuPDF
+python -m spacy download en_core_web_sm
+python -m spacy download en_core_web_trf
+
+
+pip install opencv-python==4.6.0.66
+pip install Pillow==9.5.0
+pip install pytesseract==0.3.10
+pip install easyocr==1.7.0
+pip install pdf2image==1.16.3
+pip3 install -U pypdfium2
+pip install paddleocr==2.7.02
+pip install --upgrade paddleocr
+
+pip install git+https://github.com/JaidedAI/EasyOCR.git
+python -m pip install paddlepaddle -i https://pypi.tuna.tsinghua.edu.cn/simple
